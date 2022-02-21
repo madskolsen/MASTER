@@ -9,5 +9,9 @@ public class Main {
         System.out.println("Goddav");
         System.out.println("GIV MIG HONNING!!!");
         System.out.println("Kolort^(-1)");
+
+        /**
+         * HOLD SÅ OP MED ALLE DE BRANCHES!
+         */
     }
 }
