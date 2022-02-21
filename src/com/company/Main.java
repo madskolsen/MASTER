@@ -8,12 +8,13 @@ public class Main {
         System.out.println("A leaf on the branch");
         System.out.println("Goddav");
         System.out.println("GIV MIG HONNING!!!");
-        System.out.println("Kolort^(-1)");
+      System.out.println("Kolort^(-1)");
 
         System.out.printf("Mads... stop nu med at skrive lortekode!");
 
         /**
          * HOLD SÅ OP MED ALLE DE BRANCHES!
          */
+
     }
 }
